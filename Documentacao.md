@@ -1,8 +1,8 @@
 ````Javascript
 
  O método find() em JavaScript é uma função disponível para arrays que permite encontrar 
-o primeiro elemento que atende a uma determinada condição. Se nenhum elemento atender à condição, 
-o método retorna undefined.
+o primeiro elemento que atende a uma determinada condição, devolvendo o valor como resultado.
+ Se nenhum elemento atender à condição, o método retorna undefined.
 
 Sintaxe:
 
